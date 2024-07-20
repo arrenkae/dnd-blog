@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "Title": "Post #1",
+    "Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 1,
+    "Title": "Post #2",
+    "Text": "Morbi tincidunt risus sapien, non ultrices augue volutpat non. Morbi porttitor augue non massa egestas, nec ullamcorper ligula luctus."
+  },
+  {
+    "id": 2,
+    "Title": "Post #3",
+    "Text": "Nulla vestibulum a enim ac commodo. Nulla vel egestas nibh, tempus lobortis enim. Cras a neque ex. Maecenas mi quam, dapibus ac aliquam vel, vehicula a enim."
+  }
+]
